@@ -1,0 +1,24 @@
+# Diamonds Data Exploration
+
+## Dataset
+
+The data set contains 113937 of different loansand their uniue key for each loan.
+the dataset was made up of 81 columns which were well documented at
+
+https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
+
+
+## Summary of Findings
+
+Not all applicants are emloyed
+Majority of the loan applicants are from 100k nd greater range with emloyeed status
+The distribution of amount loaned of applicants is a right skewed because there are few applicants with high loan demand.
+LoanStatus with current and completed have own homes when they applied for loans
+professional as an occupation had the highest number of defaulters.
+based on the ratio of deafuters to the ratio of loan recepients RD and SI states are the most likely to default payment
+
+
+## Key Insights for Presentation
+
+I want to look at the factors or features that had an effect on the amount loaned out. I also wanted to know the various people who were most likely to default a loan payment
+For simplicity of the visualization I have looked at only few variables. The main dataframe was broken down into various data set through the projects for simplicity and for easy analysis
